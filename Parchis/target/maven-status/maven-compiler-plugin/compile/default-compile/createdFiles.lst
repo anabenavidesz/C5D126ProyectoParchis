@@ -1,0 +1,7 @@
+cr\ac\ucr\parchis\controller\ParchisController.class
+cr\ac\ucr\parchis\view\GUIInicio.class
+cr\ac\ucr\parchis\view\GUICreditos.class
+cr\ac\ucr\parchis\view\GUIInstrucciones.class
+cr\ac\ucr\parchis\view\GUIHistoria.class
+cr\ac\ucr\parchis\view\PanelButtons.class
+cr\ac\ucr\parchis\Parchis.class
